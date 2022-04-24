@@ -10,5 +10,5 @@ if bit == '64bit':
     from SSB import ssbbuy
     ssbbuy()
 elif bit == '32bit':
-    from SSB32 import ssbbuy
+    from ZF import ssbbuy
     ssbbuy()
